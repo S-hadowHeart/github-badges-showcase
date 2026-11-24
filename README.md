@@ -383,7 +383,7 @@ The "about this project" badges — plus every sponsorship platform.
 | ![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight) | `![Joke](https://readme-jokes.vercel.app/api?theme=tokyonight)` |
 | ![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Badges+everywhere) | `![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=36BCF7&width=435&lines=Badges+everywhere)` |
 | ![Holopin](https://img.shields.io/badge/Holopin-badges-8A2BE2?style=flat-square&logo=holopin) | `![Holopin](https://img.shields.io/badge/Holopin-badges-8A2BE2?style=flat-square&logo=holopin)` |
-| ![Spotify now playing](https://spotify-github-profile.kittinanx.com/api/view?uid=S-hadowHeart&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false) | `![Spotify now playing](https://spotify-github-profile.kittinanx.com/api/view?uid=<SPOTIFY_UID>&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)` |
+| ⚠️ ![Spotify now playing](https://spotify-github-profile.kittinanx.com/api/view?uid=S-hadowHeart&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false) | `![Spotify now playing](https://spotify-github-profile.kittinanx.com/api/view?uid=<SPOTIFY_UID>&cover_image=true&theme=novatorem&bar_color=53b14f&bar_color_cover=false)` |
 | ![Powered by coffee](https://img.shields.io/badge/powered%20by-coffee%20%E2%98%95-brown?style=flat-square&logo=buymeacoffee) | `![Powered by coffee](https://img.shields.io/badge/powered%20by-coffee%20%E2%98%95-brown?style=flat-square&logo=buymeacoffee)` |
 | ![Built with love](https://img.shields.io/badge/built%20with-%E2%9D%A4-red?style=flat-square) | `![Built with love](https://img.shields.io/badge/built%20with-%E2%9D%A4-red?style=flat-square)` |
 | ![Thanks for visiting](https://img.shields.io/badge/thanks%20for-visiting-blueviolet?style=for-the-badge) | `![Thanks for visiting](https://img.shields.io/badge/thanks%20for-visiting-blueviolet?style=for-the-badge)` |
@@ -495,6 +495,7 @@ https://img.shields.io/badge/ANYTHING-you%20want-ff69b4?style=plastic&logo=rocke
 | Package badges | The package must be published to that registry |
 | Snake / Metrics / WakaTime | A GitHub Action or account in your profile repo |
 | Trophy / contributor-stats | Public Vercel deployments are often over quota (`402`) — self-host or retry |
+| Spotify now playing | Needs your real Spotify user ID, not your GitHub handle |
 | Profile views / Visitors | Nothing — they count on first render |
 | Everything else | Nothing — pure URL |
 
