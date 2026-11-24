@@ -64,7 +64,7 @@ The "who am I" row. Static shields + visitor counters.
 | ![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue?style=for-the-badge) | `![Pronouns](https://img.shields.io/badge/Pronouns-he%2Fhim-blue?style=for-the-badge)` |
 | ![Profile views](https://komarev.com/ghpvc/?username=S-hadowHeart&style=for-the-badge&color=blueviolet) | `![Profile views](https://komarev.com/ghpvc/?username=S-hadowHeart&style=for-the-badge&color=blueviolet)` |
 | ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=S-hadowHeart.S-hadowHeart&style=for-the-badge) | `![Visitors](https://visitor-badge.laobi.icu/badge?page_id=S-hadowHeart.S-hadowHeart&style=for-the-badge)` |
-| ![Visitors](https://api.visitorbadge.io/api/visitors?path=S-hadowHeart&label=visitors&countColor=%23263759&style=for-the-badge) | `![Visitors](https://api.visitorbadge.io/api/visitors?path=S-hadowHeart&label=visitors&countColor=%23263759&style=for-the-badge)` |
+| ![Visitors](https://api.visitorbadge.io/api/visitors?path=S-hadowHeart&label=visitors&countColor=%23263759&style=flat-square) | `![Visitors](https://api.visitorbadge.io/api/visitors?path=S-hadowHeart&label=visitors&countColor=%23263759&style=flat-square)` |
 | ![Followers](https://img.shields.io/github/followers/S-hadowHeart?style=for-the-badge&logo=github&label=Followers) | `![Followers](https://img.shields.io/github/followers/S-hadowHeart?style=for-the-badge&logo=github&label=Followers)` |
 | ![Sponsors](https://img.shields.io/github/sponsors/S-hadowHeart?style=for-the-badge&logo=githubsponsors&label=Sponsors) | `![Sponsors](https://img.shields.io/github/sponsors/S-hadowHeart?style=for-the-badge&logo=githubsponsors&label=Sponsors)` |
 
